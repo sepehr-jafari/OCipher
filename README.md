@@ -125,5 +125,12 @@ Note: s-box does not consider bits 0 and 5. Then, with bit 6 and 7, it specifies
 | 61d99735 | a969a7aa | c50c06c2 | 5a04abfc | 800bcadc | 9e447a2e | c3453484 | fdd56705 | 0e1e9ec9 | db73dbd3 | 105588cd | 675fda79 | e3674340 | c5c43465 | 713e38d8 | 3d28f89e |
 
 # OCipher Structure
+<div align='center'>
+   <img src="https://github.com/sepehr-jafari/OCipher/blob/main/img/OC%20Feistel.PNG" width="200" hight="500">
+</div>
 
-<img src:''>
+# One Round Of OCipher
+<div align='center'>
+   <img src="https://github.com/sepehr-jafari/OCipher/blob/main/img/One%20Round%20Of%20OC.PNG " width="300" hight="300">
+</div>
+
