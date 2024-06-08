@@ -123,3 +123,7 @@ Note: s-box does not consider bits 0 and 5. Then, with bit 6 and 7, it specifies
 | ed545578 | 08fca5b5 | d83d7cd3 | 4dad0fc4 | 1e50ef5e | b161e6f8 | a28514d9 | 6c51133c | 6fd5c7e7 | 56e14ec4 | 362abfce | ddc6c837 | d79a3234 | 92638212 | 670efa8e | 406000e0 |
 | f0177a28 | c0f586e0 | 006058aa | 30dc7d62 | 11e69ed7 | 2338ea63 | 53c2dd94 | c2c21634 | bbcbee56 | 90bcb6de | ebfc7da1 | ce591d76 | 6f05e409 | 4b7c0188 | 39720a3d | 7c927c24 |
 | 61d99735 | a969a7aa | c50c06c2 | 5a04abfc | 800bcadc | 9e447a2e | c3453484 | fdd56705 | 0e1e9ec9 | db73dbd3 | 105588cd | 675fda79 | e3674340 | c5c43465 | 713e38d8 | 3d28f89e |
+
+# OCipher Structure
+
+<img src:''>
